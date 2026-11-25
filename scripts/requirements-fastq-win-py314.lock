@@ -1,0 +1,4 @@
+# Approved Windows AMD64 CPython 3.14 package artifacts (D-003).
+# Install binary wheels with --require-hashes; do not substitute versions.
+biopython==1.88 --hash=sha256:0b8fea4940c58915e6d4c670f17f4e9c20797e9e26d4300b6efbe960b99d199d
+numpy==2.5.5 --hash=sha256:20145b11776d2f7570cd61351b156a51d3a341822282095baa819d87272bc710

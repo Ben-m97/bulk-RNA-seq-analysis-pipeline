@@ -1,0 +1,134 @@
+[
+  {
+    "id": "P01",
+    "file": "P01.fastq",
+    "exit": 0,
+    "reads": 2
+  },
+  {
+    "id": "P02",
+    "file": "P02.fastq",
+    "exit": 0,
+    "reads": 1
+  },
+  {
+    "id": "P03",
+    "file": "P03.fastq",
+    "exit": 0,
+    "reads": 1
+  },
+  {
+    "id": "P04",
+    "file": "P04.fastq",
+    "exit": 0,
+    "reads": 1
+  },
+  {
+    "id": "P05",
+    "file": "P05.fastq",
+    "exit": 0,
+    "reads": 2
+  },
+  {
+    "id": "P06",
+    "file": "P06.fastq",
+    "exit": 0,
+    "reads": 1
+  },
+  {
+    "id": "P07",
+    "file": "P07.fastq",
+    "exit": 0,
+    "reads": 2
+  },
+  {
+    "id": "P08",
+    "file": "P08.fastq",
+    "exit": 0,
+    "reads": 2
+  },
+  {
+    "id": "N03",
+    "file": "N03.fastq",
+    "exit": 2,
+    "category": "empty input"
+  },
+  {
+    "id": "N04",
+    "file": "N04.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N05",
+    "file": "N05.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N06",
+    "file": "N06.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N07",
+    "file": "N07.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N08",
+    "file": "N08.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N09",
+    "file": "N09.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N10",
+    "file": "N10.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N11",
+    "file": "N11.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N12",
+    "file": "N12.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  },
+  {
+    "id": "N13",
+    "file": "N13.fastq",
+    "exit": 2,
+    "category": "non-ASCII input"
+  },
+  {
+    "id": "N14-gz",
+    "file": "N14-gz.fastq.gz",
+    "exit": 2,
+    "category": "unsupported compression"
+  },
+  {
+    "id": "N14-fastq",
+    "file": "N14-fastq.fastq",
+    "exit": 2,
+    "category": "unsupported compression"
+  },
+  {
+    "id": "N15",
+    "file": "N15.fastq",
+    "exit": 2,
+    "category": "invalid FASTQ"
+  }
+]
