@@ -1,0 +1,15 @@
+{
+  "comment": "Exact approved download identities; verify before extraction (D-007).",
+  "decision": "D-007",
+  "platform": "Windows x64",
+  "fastqc": {
+    "version": "0.13.0",
+    "url": "https://github.com/s-andrews/FastQC/releases/download/v0.13.0/fastqc_v0.13.0.zip",
+    "sha256": "c9504d47752e79ecfe61691e09bf367fc3f15167ac3fe83d9e33534fffbcc301"
+  },
+  "java": {
+    "version": "Temurin JRE 21.0.13.1+2 HotSpot",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_windows_hotspot_21.0.13.1_2.zip",
+    "sha256": "e15ee1e54a5a3b38027a09cedfa87bc3348d7dd3ce50866dd3d9671d7fffc6c1"
+  }
+}
