@@ -1,0 +1,360 @@
+{
+  "specification": "docs/P3_FIXTURE_SPEC.md",
+  "cases": [
+    {
+      "id": "P3-A01",
+      "file": "P3-A01.csv",
+      "count": 1,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A02",
+      "file": "P3-A02.csv",
+      "count": 2,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A03",
+      "file": "P3-A03.csv",
+      "count": 2,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A04",
+      "file": "P3-A04.csv",
+      "count": 1,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A05",
+      "file": "P3-A05.csv",
+      "count": 1,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A06",
+      "file": "P3-A06.csv",
+      "count": 1,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A07",
+      "file": "P3-A07.csv",
+      "count": 1,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A08",
+      "file": "P3-A08.csv",
+      "count": 2,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A09",
+      "file": "P3-A09.csv",
+      "count": 2,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A10",
+      "file": "P3-A10.csv",
+      "count": 1,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-A11",
+      "file": "P3-A11.csv",
+      "count": 1,
+      "exit_code": 0,
+      "category": null
+    },
+    {
+      "id": "P3-R01",
+      "file": "P3-R01.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "header"
+    },
+    {
+      "id": "P3-R02",
+      "file": "P3-R02.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R03",
+      "file": "P3-R03.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "header"
+    },
+    {
+      "id": "P3-R04",
+      "file": "P3-R04.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "header"
+    },
+    {
+      "id": "P3-R05-1",
+      "file": "P3-R05-1.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "header"
+    },
+    {
+      "id": "P3-R05-2",
+      "file": "P3-R05-2.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "header"
+    },
+    {
+      "id": "P3-R05-3",
+      "file": "P3-R05-3.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "header"
+    },
+    {
+      "id": "P3-R06",
+      "file": "P3-R06.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "header"
+    },
+    {
+      "id": "P3-R07",
+      "file": "P3-R07.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R08",
+      "file": "P3-R08.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R09",
+      "file": "P3-R09.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R10",
+      "file": "P3-R10.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R11",
+      "file": "P3-R11.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R12-1",
+      "file": "P3-R12-1.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "id"
+    },
+    {
+      "id": "P3-R12-2",
+      "file": "P3-R12-2.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "id"
+    },
+    {
+      "id": "P3-R12-3",
+      "file": "P3-R12-3.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "id"
+    },
+    {
+      "id": "P3-R13-1",
+      "file": "P3-R13-1.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R13-2",
+      "file": "P3-R13-2.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R14-1",
+      "file": "P3-R14-1.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R14-2",
+      "file": "P3-R14-2.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R15-1",
+      "file": "P3-R15-1.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R15-2",
+      "file": "P3-R15-2.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R15-3",
+      "file": "P3-R15-3.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R16",
+      "file": "P3-R16.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "id"
+    },
+    {
+      "id": "P3-R17",
+      "file": "P3-R17.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "encoding"
+    },
+    {
+      "id": "P3-R18",
+      "file": "P3-R18.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "csv"
+    },
+    {
+      "id": "P3-R19",
+      "file": "P3-R19.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "row"
+    },
+    {
+      "id": "P3-R20",
+      "file": "P3-R20.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "path"
+    },
+    {
+      "id": "P3-R21",
+      "file": "P3-R21.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "path"
+    },
+    {
+      "id": "P3-R22",
+      "file": "P3-R22.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "reuse"
+    },
+    {
+      "id": "P3-R23",
+      "file": "P3-R23.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "reuse"
+    },
+    {
+      "id": "P3-R24",
+      "file": "P3-R24.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "reuse"
+    },
+    {
+      "id": "P3-R25",
+      "file": "P3-R25.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "path"
+    },
+    {
+      "id": "P3-R26",
+      "file": "P3-R26.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "path"
+    },
+    {
+      "id": "P3-R27",
+      "file": "P3-R27.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "path"
+    },
+    {
+      "id": "P3-R28",
+      "file": "P3-R28.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "path"
+    },
+    {
+      "id": "P3-R29",
+      "file": "P3-R29.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "reuse"
+    },
+    {
+      "id": "P3-R30",
+      "file": "P3-R30.csv",
+      "count": null,
+      "exit_code": 2,
+      "category": "path"
+    }
+  ],
+  "runtime_absolute_token": "{ABS_A}",
+  "categories": {
+    "header": "missing/wrong header",
+    "row": "missing/blank/shape/whitespace/control data",
+    "id": "invalid/duplicate sample label",
+    "encoding": "invalid UTF-8",
+    "csv": "strict reader grammar",
+    "path": "unsupported/missing/nonregular reference",
+    "reuse": "same underlying file",
+    "sheet": "sheet access",
+    "access": "target/stat/identity access"
+  }
+}

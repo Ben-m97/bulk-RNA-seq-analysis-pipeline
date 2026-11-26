@@ -1,0 +1,3 @@
+sample_id,fastq_path
+sample_A,files/a.fastq
+sample_B,files/hardlink.fastq

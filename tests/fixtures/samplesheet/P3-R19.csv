@@ -1,0 +1,3 @@
+sample_id,fastq_path
+# comment
+sample_A,files/a.fastq
